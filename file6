@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        body{
+    background-image: url(images.jfif);
+    background-repeat: no-repeat;
+    background-size: cover;
+        }
+    </style>
+    <body>
+        <center><h1><label>Infosys Spring Board Certificates for online course</label></center></h1></center>
+        <center><h1>Certificate 1</h1><br>
+        <a href="https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944319092817922301_shared/overview">Click here to download</a><br></center>
+        <center><h1>Certificate 2</h1>
+        <a href="https://infyspringboard.onwingspan.com/web/en/app/toc/lex_auth_0130944255397642242299_shared/overview">Click hear to download</a><br></center>
+        <center><h1>Certificate 3</h1>
+        <a href="https://infyspringboard.onwingspan.com/web/en/app/toc/lex_18109698366332810000_shared/overview">Click here to download</a><br></center>
+    </body>
+</html>
